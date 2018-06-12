@@ -1,0 +1,15 @@
+0,Adeniran Ogunsanya College of Education,6.5001372,3.1086725 
+1,Lagos State University,6.4639375,3.1988882 
+2,Ronik Polytechnic,6.5372312,3.2929776 
+3,Christopher University,6.8273478,3.4622118 
+4,Anchor University,6.6057617,3.2392411 
+5,Caleb University,6.6194184,3.508265 
+6,Lagos State Polytechnic,6.6462946,3.5156813 
+7,Yaba College of Technology,6.5187345,3.3722376 
+8,University of Lagos,6.5193116,3.3971378 
+9,Federal College of Education Akoka,6.5225924,3.3819078
+10,St. Augustine College of Education,6.5238066,3.3850396 
+11,Grace Polytechnic,6.5131549,3.3581842 
+12,National Open University of Nigeria,6.4341691,3.4069982 
+13,Pan-Atlantic University,6.4872606,3.8531619 
+14,Augustine University,6.6490121,3.9912698

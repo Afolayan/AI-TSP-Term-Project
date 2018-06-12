@@ -1,0 +1,15 @@
+{id: 1, name: Lagos State University, latitude: 6.4639375, longitude: 3.1988882}
+{id: 0, name: Adeniran Ogunsanya College of Education, latitude: 6.5001372, longitude: 3.1086725}
+{id: 4, name: Anchor University, latitude: 6.6057617, longitude: 3.2392411}
+{id: 2, name: Ronik Polytechnic, latitude: 6.5372312, longitude: 3.2929776}
+{id: 11, name: Grace Polytechnic, latitude: 6.5131549, longitude: 3.3581842}
+{id: 7, name: Yaba College of Technology, latitude: 6.5187345, longitude: 3.3722376}
+{id: 9, name: Federal College of Education Akoka, latitude: 6.5225924, longitude: 3.3819078}
+{id: 10, name: St. Augustine College of Education, latitude: 6.5238066, longitude: 3.3850396}
+{id: 8, name: University of Lagos, latitude: 6.5193116, longitude: 3.3971378}
+{id: 12, name: National Open University of Nigeria, latitude: 6.4341691, longitude: 3.4069982}
+{id: 5, name: Caleb University, latitude: 6.6194184, longitude: 3.508265}
+{id: 6, name: Lagos State Polytechnic, latitude: 6.6462946, longitude: 3.5156813}
+{id: 3, name: Christopher University, latitude: 6.8273478, longitude: 3.4622118}
+{id: 13, name: Pan-Atlantic University, latitude: 6.4872606, longitude: 3.8531619}
+{id: 14, name: Augustine University, latitude: 6.6490121, longitude: 3.9912698}
